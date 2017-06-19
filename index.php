@@ -1,5 +1,5 @@
-<?php 
+<?php
 
-require("connect");
+  require("connect.php");
 
 ?>
