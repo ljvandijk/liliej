@@ -1,1 +1,5 @@
-<?php ?>
+<?php 
+
+require("connect");
+
+?>
