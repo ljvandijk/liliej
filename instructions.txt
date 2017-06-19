@@ -4,6 +4,6 @@ git pull
 
 Update file from computer:
 
-git add .
+git add (file name)
 git commit -m "NAME"
 git push -u origin master
